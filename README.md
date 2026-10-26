@@ -2,7 +2,7 @@
 
 **Autor:** Rolando Obregon Guzman
 **Repositorio:** https://github.com/RolandObregon/algoritmos-optimizacion-parcial2
-**Video demo (≤ 8 min):** <PEGA_AQUI_EL_ENLACE>
+**Video demo (≤ 8 min):** https://youtu.be/OMASpyxsuIw
 
 ## Estructura
 ```
