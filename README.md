@@ -1,7 +1,7 @@
 # Algoritmos y Optimización – Ejercicios (2º parcial)
 
 **Autor:** Rolando Obregon Guzman
-**Repositorio:** <PEGA_AQUI_LA_URL_PUBLICA>
+**Repositorio:** https://github.com/RolandObregon/algoritmos-optimizacion-parcial2
 **Video demo (≤ 8 min):** <PEGA_AQUI_EL_ENLACE>
 
 ## Estructura
